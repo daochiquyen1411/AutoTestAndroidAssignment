@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-11T20:53:29 ICT" name="Suite" finished-at="2021-11-11T20:56:02 ICT" duration-ms="152764">
+    <groups>
+    </groups>
+    <test started-at="2021-11-11T20:53:29 ICT" name="Test" finished-at="2021-11-11T20:56:02 ICT" duration-ms="152764">
+      <class name="Test.TestAllAppListsMustBeLargerThanDownloadAppLists">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Test.TestAllAppListsMustBeLargerThanDownloadAppLists@4d0f2471]" started-at="2021-11-11T20:54:21 ICT" name="Setup" finished-at="2021-11-11T20:54:31 ICT" duration-ms="9436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="systemAppCount()[pri:0, instance:Test.TestAllAppListsMustBeLargerThanDownloadAppLists@4d0f2471]" started-at="2021-11-11T20:54:31 ICT" name="systemAppCount" finished-at="2021-11-11T20:56:02 ICT" duration-ms="91251" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- systemAppCount -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Test.TestAllAppListsMustBeLargerThanDownloadAppLists@4d0f2471]" started-at="2021-11-11T20:56:02 ICT" name="Teardown" finished-at="2021-11-11T20:56:02 ICT" duration-ms="336" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Test.TestAllAppListsMustBeLargerThanDownloadAppLists -->
+      <class name="Test.TestCheckboxShouldBeUncheckedAfterTwoClick">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Test.TestCheckboxShouldBeUncheckedAfterTwoClick@32ee6fee]" started-at="2021-11-11T20:54:07 ICT" name="Setup" finished-at="2021-11-11T20:54:16 ICT" duration-ms="8980" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="CheckboxShouldBeUncheckedAfterTwoClick()[pri:0, instance:Test.TestCheckboxShouldBeUncheckedAfterTwoClick@32ee6fee]" started-at="2021-11-11T20:54:16 ICT" name="CheckboxShouldBeUncheckedAfterTwoClick" finished-at="2021-11-11T20:54:21 ICT" duration-ms="4773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckboxShouldBeUncheckedAfterTwoClick -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Test.TestCheckboxShouldBeUncheckedAfterTwoClick@32ee6fee]" started-at="2021-11-11T20:54:21 ICT" name="Teardown" finished-at="2021-11-11T20:54:21 ICT" duration-ms="256" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Test.TestCheckboxShouldBeUncheckedAfterTwoClick -->
+      <class name="Test.TestCheckboxShouldBeCheckedOnOneClick">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:Test.TestCheckboxShouldBeCheckedOnOneClick@25084a1e]" started-at="2021-11-11T20:53:29 ICT" name="Setup" finished-at="2021-11-11T20:54:04 ICT" duration-ms="34144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="CheckboxShouldBeCheckedAfterOneClick()[pri:0, instance:Test.TestCheckboxShouldBeCheckedOnOneClick@25084a1e]" started-at="2021-11-11T20:54:04 ICT" name="CheckboxShouldBeCheckedAfterOneClick" finished-at="2021-11-11T20:54:07 ICT" duration-ms="3139" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CheckboxShouldBeCheckedAfterOneClick -->
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Test.TestCheckboxShouldBeCheckedOnOneClick@25084a1e]" started-at="2021-11-11T20:54:07 ICT" name="Teardown" finished-at="2021-11-11T20:54:07 ICT" duration-ms="345" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Teardown -->
+      </class> <!-- Test.TestCheckboxShouldBeCheckedOnOneClick -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
